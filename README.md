@@ -36,10 +36,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Grevox/Grevox/output/snake.svg" alt="Snake animation" />
-
-###
